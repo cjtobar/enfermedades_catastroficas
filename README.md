@@ -2,7 +2,7 @@
 # Enfermedades Catastróficas
 
 ## Descripción:
-Este Notebook se centra en la extracción de los pacientes beneficiarios del Seguro Social Campecito y que además tengan un diagnóstico de alguna de las enfermedades catastróficas.
+Este Notebook se centra en la extracción de los pacientes beneficiarios del Seguro Social Campesino con un diagnóstico de alguna de las enfermedades catastróficas.
 
 ## Contenido:
 
@@ -19,7 +19,7 @@ Este Notebook se centra en la extracción de los pacientes beneficiarios del Seg
 # Catastrophic Diseases
 
 ## Description:
-This Notebook focuses on extracting beneficiaries of the "Social Insurance Campecito" who also have a diagnosis of any of the catastrophic diseases.
+This Notebook focuses on extracting beneficiaries of the "Social Insurance Campesino" who also have a diagnosis of any catastrophic disease.
 
 ## Content:
 
